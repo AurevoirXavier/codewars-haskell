@@ -12,3 +12,4 @@ For Haskell, more specifically, body has the type of String and tail has the typ
 
 ## Thinking
 
+`last` will help you.
