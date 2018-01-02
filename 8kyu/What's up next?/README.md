@@ -11,3 +11,4 @@ next "Bob" ["Joe", "Bob", "Sally"] -- Just "Sally"
 
 ## Thinking
 
+`import Data.Maybe (listToMaybe)` save my life!
