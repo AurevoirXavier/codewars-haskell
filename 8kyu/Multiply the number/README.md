@@ -13,3 +13,5 @@ multiply(-3)==-15
 ```
 
 ## Thinking
+
+Equation: `n * 5 ^ (length of n)`. (tips: handle the negative number)
