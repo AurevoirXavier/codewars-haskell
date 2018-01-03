@@ -23,3 +23,6 @@ For simplicity, you will not be tested on the ability to handle corner cases (e.
 
 ## Thinking
 
+`filter` whitespace and ohter symbol. Then use  `isUpper`.
+
+But you can think in opposite way, use combine `not` and `isLower`.
