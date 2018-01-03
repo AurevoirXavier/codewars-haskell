@@ -14,3 +14,4 @@ reverseList "Hello olleH" `shouldBe` "Hello olleH"
 
 ## Thinking
 
+`reverse` or [Reverse list recursively](https://www.codewars.com/kata/reverse-list-recursively/train/haskell)
