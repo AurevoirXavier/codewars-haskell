@@ -28,3 +28,5 @@ divide 6 `shouldBe` True
 ```
 
 ## Thinking
+
+Even but except 2.
