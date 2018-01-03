@@ -38,3 +38,5 @@ You will only be given integers types - however negative values (edge cases) wil
 Happy coding!
 
 ## Thinking
+
+A easy way: `zip [0..heads] reverse [0..heads]`.
