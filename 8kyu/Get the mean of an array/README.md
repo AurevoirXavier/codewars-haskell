@@ -10,3 +10,4 @@ The array will never be empty.
 
 ## Thinking
 
+Maybe you can try to import `Control.Applicative`.

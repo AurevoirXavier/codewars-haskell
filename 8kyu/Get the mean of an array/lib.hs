@@ -1,4 +1,4 @@
 module Codewars.AverageCalculator where
 
 getAverage :: [Int] -> Int
-    getAverage marks = error TODO: getAverage
+getAverage x = sum x `div` length x
