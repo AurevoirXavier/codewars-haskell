@@ -6,3 +6,4 @@ Write function binToDec which converts binary number (given as a string) to deci
 
 ## Thinking
 
+`foldl` it!
