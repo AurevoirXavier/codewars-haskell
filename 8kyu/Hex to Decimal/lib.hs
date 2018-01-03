@@ -1,4 +1,6 @@
 module HexToDecimal where
 
+import Numeric
+
 hexToDec :: String -> Int
-hexToDec s = 0
+hexToDec = fst . head . readHex
