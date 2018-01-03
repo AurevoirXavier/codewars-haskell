@@ -12,3 +12,4 @@ For the beginner, try to use the `map` method - it comes in very handy quite a l
 
 ## Thinking
 
+Try to avoid `map`~
