@@ -14,3 +14,4 @@ n = 2 -> 2^0, 2^1, 2^2 -> [1,2,4]
 
 ## Thinking
 
+Try to solve it with pointless. (tips: `enumFromTo` might be help)
