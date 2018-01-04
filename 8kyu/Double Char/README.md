@@ -13,3 +13,5 @@ doubleChar "1234!_ " ==> "11223344!!__  "
 Good Luck!
 
 ## Thinking
+
+Try `concatMap`~
