@@ -6,3 +6,4 @@ Given a string of digits, you should replace any digit below 5 with '0' and any 
 
 ## Thinking
 
+I think you need `dightToInt`.
