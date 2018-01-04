@@ -6,3 +6,4 @@ Write function `parseFloat` (for Javascript `parseF`) which takes a string and r
 
 ## Thinking
 
+Why not `readMaybe`?
