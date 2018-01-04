@@ -1,4 +1,6 @@
 module Codewars.Kata.FakeBinary where
 
+import Data.Char
+
 fakeBin :: String -> String
-fakeBin xs = error "todo: fakeBin"
+fakeBin = map (\c -> if digitToInt c < 5 then '0' else '1')
