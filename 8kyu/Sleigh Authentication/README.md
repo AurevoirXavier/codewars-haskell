@@ -16,3 +16,5 @@ authenticate "jhoffner"    "CodeWars"  -- False
 ```
 
 ## Thinking
+
+Use match.
