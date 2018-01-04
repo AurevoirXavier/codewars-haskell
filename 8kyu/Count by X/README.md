@@ -16,3 +16,5 @@ countBy 2  5 `shouldBe` [2,4,6,8,10]
 ```
 
 ## Thinking
+
+`range` and you might need `toInteger`.
