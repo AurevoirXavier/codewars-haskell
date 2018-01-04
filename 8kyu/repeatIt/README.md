@@ -17,3 +17,10 @@ If anything other than a string is passed in you should return `"Not a string"`
 
 ## Thinking
 
+There is a trick. If you can't understand the code. Think about this:
+
+```haskell
+-- (concat .) replace by map
+g :: Int -> [Int] -> [Int]
+g = map . (+)
+```
