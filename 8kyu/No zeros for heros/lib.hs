@@ -1,4 +1,4 @@
 module Codewars.G964.NoZeros where
 
 noBoringZeros :: Int -> Int
-noBoringZeros n -- your code
+noBoringZeros n 
