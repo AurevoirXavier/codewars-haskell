@@ -19,3 +19,4 @@ Zero alone is fine, don't worry about it. Poor guy anyway
 
 ## Thinking
 
+If use `dropWhile`, you should `reverse` twice.
