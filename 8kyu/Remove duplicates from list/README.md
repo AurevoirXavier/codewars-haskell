@@ -10,3 +10,4 @@ The order of the sequence needs to stay the same.
 
 ## Thinking
 
+`nub` it!
