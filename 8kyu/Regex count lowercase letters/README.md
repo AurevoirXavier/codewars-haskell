@@ -22,3 +22,4 @@ lowercaseCount("abcdefghijklmnopqrstuvwxyz"); ===> 26
 
 ## Thinking
 
+Lovely `isAsciiLower`.

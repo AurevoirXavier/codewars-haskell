@@ -1,4 +1,6 @@
 module Codewars.Strings where
 
+import Data.Char (isAsciiLower)
+
 lowercaseCount :: [Char] -> Int
-lowercaseCount = 
+lowercaseCount = length . filter isAsciiLower
