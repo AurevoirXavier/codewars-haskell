@@ -21,3 +21,4 @@ relativelyPrime 210 [15,100,2222222,6,4,12369,99]) == []
 
 ## Thinking
 
+`gcd` the number~
