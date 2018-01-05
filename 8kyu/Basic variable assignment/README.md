@@ -6,3 +6,4 @@ This code should store "codewa.rs" as a variable called "name" but it's not work
 
 ## Thingink
 
+`variable = value`.
