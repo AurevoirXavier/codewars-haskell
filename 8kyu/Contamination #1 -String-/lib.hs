@@ -3,4 +3,4 @@ module Kata.Contamination1
   ) where
 
 contamination :: String -> String -> String
-contamination text char = undefined
+contamination text char = concatMap (const char) text

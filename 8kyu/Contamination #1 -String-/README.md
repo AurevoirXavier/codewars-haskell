@@ -21,3 +21,4 @@ after = "zzz"
 
 ## Thinking
 
+Use `concatMap`.
