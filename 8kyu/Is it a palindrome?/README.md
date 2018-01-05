@@ -6,3 +6,4 @@ Write function isPalindrom that checks if a given string (case insensitive) is a
 
 ## Thinking
 
+Compare with `reverse`.
