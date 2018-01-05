@@ -7,4 +7,5 @@ data Grammar
   | Plural
 
 plural :: (Num a, Eq a) => a -> Grammar
-plural n = error "todo: plural"
+plural 1 = Singular
+plural _ = Plural
