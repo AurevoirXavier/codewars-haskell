@@ -29,3 +29,4 @@ Other katas in this series:
 
 ## Thinking
 
+YEAH!! `either read id`!!
