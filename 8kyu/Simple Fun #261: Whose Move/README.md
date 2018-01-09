@@ -28,3 +28,4 @@ For `lastPlayer = "white" and win = true`, the output should be `"white"`.
 
 ## Thinking
 
+`head $ filter` make code less.
