@@ -4,6 +4,6 @@ module Kata.WhoseMove
 
 whoseMove :: String -> Bool -> String
 whoseMove lastPlayer win =
-  if win 
-    then lastPlayer 
+  if win
+    then lastPlayer
     else head $ filter (lastPlayer /=) ["white", "black"]

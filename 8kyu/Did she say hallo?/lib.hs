@@ -1,7 +1,7 @@
 module Codewars.Kata.HelloValidator where
 
-import Data.Char
-import Data.List
+import           Data.Char
+import           Data.List
 
 validateHello :: String -> Bool
 validateHello cs =

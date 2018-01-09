@@ -1,6 +1,6 @@
 module Palindroms where
 
-import Data.Char (toLower)
+import           Data.Char (toLower)
 
 isPalindrom :: String -> Bool
 -- isPalindrom str = n == r

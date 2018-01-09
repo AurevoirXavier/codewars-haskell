@@ -6,4 +6,4 @@ binToDec :: String -> Int
 binToDec = foldl1 ((+) . (2 *)) . map f
   where
     f '0' = 0
-    f _ = 1
+    f _   = 1

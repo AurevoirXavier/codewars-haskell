@@ -1,7 +1,7 @@
 module ParseFloat where
 
 -- import Data.Char
-import Text.Read (readMaybe)
+import           Text.Read (readMaybe)
 
 parseFloat :: String -> Maybe Float
 -- parseFloat s =
@@ -10,3 +10,4 @@ parseFloat :: String -> Maybe Float
 --     else Nothing
 
 parseFloat = readMaybe
+

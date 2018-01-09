@@ -1,6 +1,6 @@
 module Codewars.Kata.Plural where
 
-import Codewars.Kata.Plural.Types
+import           Codewars.Kata.Plural.Types
 
 data Grammar
   = Singular

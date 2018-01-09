@@ -1,6 +1,6 @@
 module Animals where
 
-import Data.List
+import           Data.List
 
 animals :: Int -> Int -> Maybe (Int, Int)
 animals heads legs =
