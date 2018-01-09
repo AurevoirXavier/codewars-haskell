@@ -18,3 +18,4 @@ rps('paper','paper') // Draw!
 
 ## Thinking
 
+Use a **guard**.
