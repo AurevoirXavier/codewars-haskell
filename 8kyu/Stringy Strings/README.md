@@ -14,3 +14,4 @@ The size will always be positive and will only use whole numbers.)
 
 ## Thinking
 
+`cycle` the "10".
