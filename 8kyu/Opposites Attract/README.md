@@ -8,3 +8,4 @@ Write a function that will take the number of petals of each flower and return t
 
 ## Thinking
 
+`mod` them.
