@@ -16,3 +16,4 @@ Names given are always valid strings.
 
 ## Thinking
 
+Use `elem` is a wise choice.
