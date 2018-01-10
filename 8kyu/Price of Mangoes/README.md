@@ -12,3 +12,7 @@ mango(9, 5) ==> 30   # 6 mangoes for 5 = 30; +3 mangoes for free
 ```
 
 ## Thinking
+
+```haskell
+(n - (n `div` 3)) * p
+```

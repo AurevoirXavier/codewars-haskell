@@ -20,4 +20,4 @@ makeNegative 0.12 -- return -0.12
 
 ## Thinking
 
-Nothing to say...
+`abs` then `negate`.

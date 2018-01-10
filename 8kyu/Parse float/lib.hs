@@ -10,4 +10,3 @@ parseFloat :: String -> Maybe Float
 --     else Nothing
 
 parseFloat = readMaybe
-
