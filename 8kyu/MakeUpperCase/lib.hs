@@ -1,6 +1,6 @@
 module MakeUpper where
 
-import           Data.Char (toLower)
+import           Data.Char (toUpper)
 
 makeUpperCase :: [Char] -> [Char]
-makeUpperCase = map toLower
+makeUpperCase = map toUpper

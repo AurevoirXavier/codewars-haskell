@@ -6,4 +6,4 @@ Write function makeUpperCase.
 
 ## Thinking
 
-`toLower` them.
+`toUpper` them.
