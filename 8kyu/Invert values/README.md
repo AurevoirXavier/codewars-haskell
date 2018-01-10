@@ -12,3 +12,4 @@ invert([]) == []
 
 ## Thinking
 
+`negate` them.
