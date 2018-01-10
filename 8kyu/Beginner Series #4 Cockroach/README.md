@@ -14,3 +14,4 @@ Note! The input is a Real number (actual type is language dependent) and is >= 0
 
 ## Thinking
 
+`(* 1000)` first, then `(/ 36)`.
