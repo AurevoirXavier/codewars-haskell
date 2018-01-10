@@ -1,4 +1,6 @@
 module Kata (noSpace) where
 
+import           Data.Char (isSpace)
+
 noSpace :: String -> String
-noSpace str = error "Implement me!"
+noSpace = filter (not . isSpace)
