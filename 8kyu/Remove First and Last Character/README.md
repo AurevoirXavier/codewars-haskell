@@ -6,3 +6,4 @@ It's pretty straightforward. Your goal is to create a function that removes the 
 
 ## Thinking
 
+`init` and `tail`.

@@ -10,4 +10,4 @@ Example `[1,-4,7,12]` => `1 + 7 + 12 = 20`
 
 ## Thinking
 
-`sum` and `filter`
+`sum` and `filter`.
