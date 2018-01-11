@@ -10,3 +10,5 @@ Assume test input string always valid and may look like "1 year old" or "5 years
 
 ## Thinking
 
+1. `take` then `read`.
+2. `head`, `digitToInt` then `fromIntegral`.
