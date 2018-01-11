@@ -6,3 +6,4 @@ Write function isItWhitespace which tells us if given character is a whitespace.
 
 ## Thinking
 
+`isSpace`.
