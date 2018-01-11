@@ -8,3 +8,4 @@ Every word in movie title should starts with capital letter.
 
 ## Thinking
 
+`words` then match with `(x:xs)`.
