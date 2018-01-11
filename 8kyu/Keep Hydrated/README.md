@@ -18,3 +18,4 @@ time = 11.8--> litres = 5
 
 ## Thinking
 
+`floor` then `div 2`.
