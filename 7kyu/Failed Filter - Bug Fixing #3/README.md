@@ -6,3 +6,5 @@ Oh no, Timmy's filter doesn't seem to be working? Your task is to fix the Filter
 
 ## Thinking
 
+1. `isDigit`.
+2. `isAlpha`.
