@@ -1,4 +1,5 @@
 module Kata where
 
+import           Data.List (sort)
 sumArray :: Maybe [Int] -> Int
-sumArray xs = error "Implement me!"
+sumArray = sum . init . tail . sort
