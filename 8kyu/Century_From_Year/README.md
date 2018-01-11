@@ -24,3 +24,4 @@ Enjoy Learning !!!
 
 ## Thinking
 
+Why not `(-1)` at first.

@@ -1,4 +1,4 @@
 module Century where
 
 century::Int -> Int
-century year = error "todo function"
+century year = ((year - 1) `quot` 100) + 1
