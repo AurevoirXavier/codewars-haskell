@@ -1,4 +1,6 @@
 module Kata where
 
 getVolumeOfCuboid :: Double -> Double -> Double -> Double
-getVolumeOfCuboid = error "Implement me!"
+-- getVolumeOfCuboid l w h = l * w * h
+
+getVolumeOfCuboid = ((*) .) . (*)

@@ -8,3 +8,16 @@ Ruby: `def get_volume_of_cuboid(length, width, height)` Bash: `bash run_shell le
 
 ## Thinking
 
+If you want to know how pointfree work:
+
+```haskell
+f l w h = (*) ((*) l w) h
+f l w = (*) ((*) l w)
+f l w = (*) $ (*) l w
+f l w = (*) . (*) l $ w
+f l = (*) . (*) l
+f l = ((*) .) ((*) l)
+f l = ((*) .) $ (*) l
+f l = ((*) .) . (*) $ l
+f = ((*) .) . (*)
+```
