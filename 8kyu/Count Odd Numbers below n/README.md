@@ -13,3 +13,4 @@ Expect large Inputs!
 
 ## Thinking
 
+`div` 2.

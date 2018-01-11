@@ -1,4 +1,4 @@
 module OddCounter where
 
 oddCount :: Int -> Int
-oddCount = undefined
+oddCount = (`div` 2)
