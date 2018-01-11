@@ -24,3 +24,4 @@ I have created other katas. Have a look if you like coding and challenges.
 
 ## Thinking
 
+Match it with `Just (_:_:_)`.

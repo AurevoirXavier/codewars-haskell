@@ -1,5 +1,7 @@
 module Kata where
 
 import           Data.List (sort)
+
 sumArray :: Maybe [Int] -> Int
-sumArray = sum . init . tail . sort
+sumArray (Just xs@(_:_:_)) = sum . init . tail . sort $ xs
+sumArray _                 = 0
