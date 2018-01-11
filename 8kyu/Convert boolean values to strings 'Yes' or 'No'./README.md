@@ -10,3 +10,4 @@ Return: a 'Yes' string for true and a 'No' string for false
 
 ## Thinking
 
+Nothing to say...
