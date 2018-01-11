@@ -26,3 +26,4 @@ This is for beginners so we want to test basic loops and string manipulation. Ad
 
 ## Thinking
 
+If you know `unwords`.
