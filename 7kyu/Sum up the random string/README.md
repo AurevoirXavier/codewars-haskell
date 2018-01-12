@@ -22,4 +22,4 @@ Sum is `2021`.
 
 ## Thinking
 
-`words` first then `map` with `isDight`.
+If you don't know `wordsBy`, you may write a function which look like my first solution.
