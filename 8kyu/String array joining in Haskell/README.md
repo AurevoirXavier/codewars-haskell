@@ -23,3 +23,5 @@ joinS [] "Something"
 You cannot use the existing `join` functions from `Data.List` or `Data.String.Utils`.
 
 ## Thinking
+
+`concatMap`.
