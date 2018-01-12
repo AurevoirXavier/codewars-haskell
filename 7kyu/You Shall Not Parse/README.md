@@ -23,3 +23,5 @@ False
 
 ## Thinking
 
+1. `readMaybe` then `isJust`.
+2. `isDigit`.
