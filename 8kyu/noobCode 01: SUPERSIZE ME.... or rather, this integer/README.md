@@ -14,3 +14,4 @@ If the argument passed through is single digit or is already the maximum possibl
 
 ## Thinking
 
+`sort` it.
