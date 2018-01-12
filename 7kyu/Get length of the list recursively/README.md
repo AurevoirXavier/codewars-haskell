@@ -10,3 +10,4 @@ In C, The list is an array of non-zero integers, with a last element of 0, which
 
 ## Thinking
 
+Think about using `(_:xs)`.
