@@ -17,3 +17,5 @@ Otherwise return, `False/false` (according to the language n use).
 Remember, in **C#** you have to cast your output value to **Object** type!
 
 ## Thinking
+
+Nothing to say...
