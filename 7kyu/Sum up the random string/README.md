@@ -22,4 +22,4 @@ Sum is `2021`.
 
 ## Thinking
 
-`isDight`.
+`words` first then `map` with `isDight`.
