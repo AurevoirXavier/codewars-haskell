@@ -1,4 +1,6 @@
 module Codewars.Kata.SortedUnion where
 
+import           Data.List (nub)
+
 uniteUnique :: Ord a => [[a]] -> [a]
-uniteUnique xs = error "todo: uniteUnique"
+uniteUnique = nub . concat

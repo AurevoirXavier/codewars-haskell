@@ -14,3 +14,4 @@ Check the assertion tests for examples.
 
 ## Thinking
 
+`nub` or `union`. Both of them in the *Data.List*.
