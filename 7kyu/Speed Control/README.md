@@ -32,3 +32,4 @@ With floats it can happen that results depends on the operations order. To calcu
 
 ## Thinking
 
+`zipWith` the list.
