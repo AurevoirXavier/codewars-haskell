@@ -15,3 +15,4 @@ Good luck!
 
 ## Thinking
 
+`fold` it.
