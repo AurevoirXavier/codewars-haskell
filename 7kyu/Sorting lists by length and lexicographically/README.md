@@ -32,3 +32,6 @@ A description of how a newtype declaration works can be found at <http://www.has
 
 ## Thinking
 
+What? You ask me why I came out with this solution?
+
+Check here: http://learnyouahaskell.com/functors-applicative-functors-and-monoids#monoids
