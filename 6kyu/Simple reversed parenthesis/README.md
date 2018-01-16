@@ -20,3 +20,4 @@ Good luck.
 
 ## Thinking
 
+Try to make some temp variable to store the necessary count.
