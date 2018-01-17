@@ -8,3 +8,4 @@ Problem seems to be trivial but there are some limitations: take, repeat, cycle 
 
 ## Thinking
 
+Just use **range**.
