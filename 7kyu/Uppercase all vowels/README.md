@@ -6,3 +6,4 @@ Write function uppercaseVowels that make all vowels [a,e,i,o,u] in a given strin
 
 ## Thinking
 
+`map` and `toUpper`.
