@@ -12,5 +12,7 @@ Example:
 
 ## Thinking
 
+Two ways:
+
 1.  `* 100` them `/ 100`.
 2.  Format it like string.
