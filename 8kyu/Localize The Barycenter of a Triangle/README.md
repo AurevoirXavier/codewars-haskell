@@ -30,3 +30,4 @@ Enjoy it and happy coding!!
 
 ## Thinking
 
+One thing you should know - format. Then you can see [Formatting decimal places #0](https://www.codewars.com/kata/formatting-decimal-places-number-0/train/haskell).
