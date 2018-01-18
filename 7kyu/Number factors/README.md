@@ -6,3 +6,4 @@ Write function getFactors that returs all factors of a given number (greather th
 
 ## Thinking
 
+Range and `mod`.
