@@ -1,6 +1,6 @@
 module NumberFactors where
 
-import           Data.List (nub, sort)
+-- import           Data.List (nub, sort)
 
 getFactors :: Int -> [Int]
 -- getFactors n = nub . sort $ f 1 []
