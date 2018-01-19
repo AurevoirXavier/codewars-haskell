@@ -6,3 +6,4 @@ Write function makeNegative that makes all numbers of a given list negative.
 
 ## Thinking
 
+`abs` then `negeta`.
