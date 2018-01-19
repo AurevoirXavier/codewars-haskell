@@ -6,3 +6,4 @@ Create function fib that returns n'th element of Fibonacci sequence (classic pro
 
 ## Thinking
 
+Easy, but try to make it more efficient!
