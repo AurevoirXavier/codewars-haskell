@@ -8,3 +8,4 @@ Reorganize into alphabetical order a nonempty string consisting only of lower-ca
 
 ## Thinking
 
+`sort` it.
