@@ -22,3 +22,4 @@ Tips: Order of other numbers should not change.
 
 ## Thinking
 
+`partition` or `filter`.
