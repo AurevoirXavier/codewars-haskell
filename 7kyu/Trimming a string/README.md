@@ -18,3 +18,4 @@ e.g. `trim("Code Wars is pretty rad", 50)` should return `"Code Wars is pretty r
 
 ## Thinking
 
+`take` is the key.
