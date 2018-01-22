@@ -14,3 +14,4 @@ Good luck!
 
 ## Thinking
 
+`sort` then `isSubsequenceOf`.
