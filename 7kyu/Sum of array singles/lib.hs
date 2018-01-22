@@ -1,6 +1,6 @@
 module SumArraySingles where
 
-import           Data.List (union)
+import           Data.List (nub, (\\))
 
 repeats :: [Int] -> Int
-repeats xs = undefined
+repeats xs = sum $ filter (`notElem` xs \\ nub xs) xs
