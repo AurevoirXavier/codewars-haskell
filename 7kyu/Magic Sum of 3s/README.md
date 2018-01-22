@@ -10,3 +10,4 @@ If the sum cannot be calculated, `0` should be returned.
 
 ## Thinking
 
+`filter` then `sum`.
