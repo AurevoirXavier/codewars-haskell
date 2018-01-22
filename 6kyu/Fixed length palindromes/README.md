@@ -18,3 +18,4 @@ If you like palindrome Katas, please try:
 
 ## Thinking
 
+Just focus on the **half**.
