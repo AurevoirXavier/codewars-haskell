@@ -18,3 +18,4 @@ If you like this Kata, please try:
 
 ## Thinking
 
+Find the *difference set*.
