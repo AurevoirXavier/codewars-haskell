@@ -21,3 +21,4 @@ If you like this Kata, please try:
 
 ## Thinking
 
+Just `group`. Or you can `fold` it like me.
