@@ -24,4 +24,4 @@ Good luck!
 
 ## Thinking
 
-`group` it!
+Finish it with `group`.
