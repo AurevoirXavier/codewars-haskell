@@ -17,3 +17,5 @@ Good luck!
 
 ## Thinking
 
+1. Find a way to match.
+2. Write a recursion.
