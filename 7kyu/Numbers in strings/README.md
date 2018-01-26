@@ -10,3 +10,4 @@ Good luck!
 
 ## Thinking
 
+Replace the alpha to whitespace then `words`.
