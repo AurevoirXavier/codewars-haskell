@@ -21,3 +21,4 @@ If you like this Kata, please try:
 
 ## Thinking
 
+`subsequences` will help you.
