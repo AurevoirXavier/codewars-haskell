@@ -27,3 +27,4 @@ digpow 46288 3 should return 51 since 4³ + 6⁴+ 2⁵ + 8⁶ + 8⁷ = 2360688 =
 
 ## Thinking
 
+Use `fold` or a **range** to deal with the `p`.
