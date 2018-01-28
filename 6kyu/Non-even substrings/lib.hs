@@ -1,4 +1,4 @@
 module NonEvenSubstrings where
 
 solve :: String -> Int
-solve = 
+solve = u
