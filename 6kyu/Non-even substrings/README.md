@@ -16,3 +16,4 @@ If you like substring Katas, please try
 
 ## Thinking
 
+The solution which use `zip` is god damn clever!!!

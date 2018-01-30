@@ -1,5 +1,9 @@
 module NonEvenSubstrings where
 
+import           Data.Char (digitToInt)
+
 solve :: String -> Int
-solve [x] = if x `elem` "13579" then 1 else 0
-solve xs  = (length . filter odd . map read . init $ scanr (:) [] xs) + solve (init xs)
+-- solve [] = 0
+-- solve xs = (length . filter odd . map read . init $ scanr (:) [] xs) + solve (init xs)
+
+solve = sum . map fst . filter (odd . snd) . zip [1..] . map digitToInt
