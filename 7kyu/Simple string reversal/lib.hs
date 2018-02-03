@@ -1,3 +1,4 @@
 module SimpleReversal where
 
-solve :: String -> String
+solve :: String -> [Int]
+solve = map length . words
