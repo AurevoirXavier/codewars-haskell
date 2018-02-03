@@ -21,3 +21,4 @@ Good luck!
 
 ## Thinking
 
+Find some ways to split the *reverse string*. In my solutions, `splitPlaces` can replace my `rev` function.
