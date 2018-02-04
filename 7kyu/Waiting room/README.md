@@ -25,3 +25,4 @@ Have fun :)
 
 ## Thinking
 
+Did you notice that the answer alway less 1 from the sum~ 
