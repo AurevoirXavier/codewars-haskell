@@ -31,3 +31,4 @@ frequency [1,2,2,3] == [(1,1),(2,2),(3,1)]
 
 ## Thinking
 
+`fold` with `inserWith` which in the *Data.Map*.
