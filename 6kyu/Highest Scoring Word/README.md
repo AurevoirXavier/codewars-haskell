@@ -14,3 +14,6 @@ All letters will be lowercase and all inputs will be valid.
 
 ## Thinking
 
+You can make a own table by `zip ['a'..'z'] [1..]`.
+
+Or you can use `ord` which in *Data.Char*. (But remember to -96, if you don't do that, there might be a problem when the words length are different)
