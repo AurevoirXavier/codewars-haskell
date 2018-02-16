@@ -26,3 +26,8 @@ Good luck!
 
 ## Thinking
 
+Many ways to solve it:
+
+1. Use `sort` to compare. (not recommend)
+2. Calculate the times of *less then* and *great than*.
+3. In the `lib.hs`. (cleverest way)
