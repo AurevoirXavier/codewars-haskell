@@ -24,3 +24,4 @@ Should return `4`.
 
 ## Thinking
 
+Think about use `scanl1 (+)`.
