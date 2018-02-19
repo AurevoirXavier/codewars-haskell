@@ -8,3 +8,4 @@ In Python: The input list *must not* be modified.
 
 ## Thinking
 
+`zip` the list with `[1, 2, 1, 2......]`.
