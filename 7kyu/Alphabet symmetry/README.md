@@ -18,3 +18,8 @@ If you like this Kata, please try:
 
 ## Thinking
 
+Two ways:
+
+1. `ord` and minus `96`.
+
+2. `zipWith (==)`.
