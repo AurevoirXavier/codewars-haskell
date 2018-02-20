@@ -20,3 +20,6 @@ Please also try [Single Character Palindromes](https://www.codewars.com/kata/5a2
 
 ## Thinking
 
+Not so hard but interesting kata.
+
+Key is comparing the `head` and `last`.
