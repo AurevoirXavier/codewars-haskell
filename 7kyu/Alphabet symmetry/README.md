@@ -1,0 +1,3 @@
+## Detail
+
+[Alphabet symmetry]
