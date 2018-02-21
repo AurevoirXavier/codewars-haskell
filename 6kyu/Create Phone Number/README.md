@@ -15,3 +15,4 @@ Don't forget the space after the closing parentheses!
 
 ## Thinking
 
+You can match every char or split it.
