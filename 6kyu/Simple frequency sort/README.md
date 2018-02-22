@@ -15,3 +15,4 @@ Good luck!
 
 ## Thinking
 
+If you `group` them, things will be much easier.
