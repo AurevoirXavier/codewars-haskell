@@ -17,3 +17,4 @@ Good luck!
 
 ## Thinking
 
+`take` and `drop`~
