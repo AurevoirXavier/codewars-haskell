@@ -14,3 +14,7 @@ More examples in test cases. Input will be strings of lowercase letters or numbe
 Good luck!
 
 ## Thinking
+
+See the `lib.hs`.
+
+Tips: Use `take` and `drop` can save your time but it's slow.
