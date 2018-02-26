@@ -14,3 +14,8 @@ Good luck!
 
 ## Thinking
 
+Simplify it:
+
+1.  How to find it in **1-step**?
+2.  Change it to **n-steps**.
+3.  Collect them.
