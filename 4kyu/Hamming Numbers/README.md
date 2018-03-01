@@ -22,3 +22,6 @@ Your code should be able to compute all of the smallest 5,000 (Clojure: 2000) Ha
 
 ## Thinking
 
+Try to make a `merge` function which will merge the `(n^2)` `(n^3)` `(n^5)` lists. 
+
+Tips: It should be a infinite list.
