@@ -21,3 +21,5 @@ For a more detailed explanation of the fix function, see <http://en.wikipedia.or
 Note: `foldr` is lazy, so your `foldr'` should be lazy too.
 
 ## Thinking
+
+Recommend to use a type `Fr` to represent the long signature.
