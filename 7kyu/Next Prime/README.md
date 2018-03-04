@@ -16,3 +16,4 @@ You will get a number `n` (n>=0) and your task is to find the next prime number.
 
 ## Thinking
 
+ Easy kata but for more efficiency I use the sexy prime theorem in the `isPrime`.
