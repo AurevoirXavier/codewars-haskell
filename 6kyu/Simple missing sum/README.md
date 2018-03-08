@@ -16,3 +16,4 @@ Good luck!
 
 ## Thinking
 
+Use `subsequences` which in *Data.List*.
