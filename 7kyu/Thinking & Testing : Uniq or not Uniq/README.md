@@ -60,3 +60,4 @@ Another series, innovative and interesting, medium difficulty. People who like t
 
 ## Thinking
 
+`nub` and `sort` which in the *Data.List*.
