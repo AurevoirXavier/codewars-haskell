@@ -1,5 +1,5 @@
 module Codewars.Puzzle (testit) where
 
-import 
+import           Data.List (nub, sort)
 testit :: [Int] -> [Int] -> [Int]
-testit = 
+testit a b = sort $ (nub . sort) a ++ (nub . sort) b
