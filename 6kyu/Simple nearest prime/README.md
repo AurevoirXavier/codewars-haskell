@@ -17,3 +17,4 @@ Good luck!
 
 ## Thinking
 
+Similar with [this kata](https://www.codewars.com/kata/next-prime).
