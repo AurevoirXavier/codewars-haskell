@@ -11,4 +11,3 @@ data Value = String String
 
 parse :: String -> Maybe Value
 parse [] = Nothing
-parse 
