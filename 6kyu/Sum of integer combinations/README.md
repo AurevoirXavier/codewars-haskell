@@ -31,9 +31,9 @@ find [1, 2] 2
 2
 ```
 
-We setted 2 bound in the `go xs len diff`:
+We setted 2 bound in the `go xs len dif`:
 
-1. If diff equals to 0. It means that we found the combinations which satisfy the sum.
+1. If dif equals to 0. It means that we found the combinations which satisfy the sum.
 
 2. But if the len reach the 0 first, which means the list's length will out of the boundary (The length of the sub-arrays (such as `[3,3,3,3]` should be less than or equal to the length of the initial array (`[3,6,9,12]`)).
 
