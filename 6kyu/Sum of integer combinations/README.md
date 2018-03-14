@@ -31,7 +31,7 @@ find [1, 2] 2
 2
 ```
 
-We set 2 bound in the `go xs len diff`:
+We setted 2 bound in the `go xs len diff`:
 
 1. If diff equals to 0. It means that we found the combinations which satisfy the sum.
 
