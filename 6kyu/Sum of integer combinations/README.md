@@ -22,3 +22,15 @@ If you like this Kata, please try:
 
 ## Thinking
 
+You may have some question. So here's an example:
+
+```haskell
+find [1, 2] 2
+
+-- [1, 1] and [2]
+2
+```
+
+We set 2 bound in the `go xs n`:
+
+1. 
