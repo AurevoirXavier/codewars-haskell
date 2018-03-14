@@ -22,7 +22,7 @@ If you like this Kata, please try:
 
 ## Thinking
 
-You may have some question. So here's an example:
+You may have some questions. So here's an example:
 
 ```haskell
 find [1, 2] 2
@@ -56,3 +56,4 @@ the second:
 
 => 2 : []
 => [2]
+```
