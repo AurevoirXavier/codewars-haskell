@@ -40,7 +40,7 @@ We set 2 bound in the `go xs len diff`:
 ```haskell
 find [1, 2] 2
 
-first element in xs:
+first iter in xs:
 => 1 : go [1, 2] 1 1
 => 1 : (1 : go [1, 2] 0 0)
 => 1 : [1 : []]
