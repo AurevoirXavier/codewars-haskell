@@ -13,4 +13,4 @@ Digits.Explode("102269") = "12222666666999999999"
 
 ## Thinking
 
-Just rep
+Just replicate.
