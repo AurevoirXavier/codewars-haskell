@@ -12,3 +12,4 @@ You can assume the array will always be valid, and there will always be one corr
 
 ## Thinking
 
+Use any.
