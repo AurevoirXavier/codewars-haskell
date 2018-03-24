@@ -22,3 +22,4 @@ sumMul(4, -7)  ==> "INVALID"
 
 ## Thinking
 
+Use range.
