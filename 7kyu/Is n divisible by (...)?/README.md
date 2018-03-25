@@ -16,3 +16,5 @@ isDivisible(12,7)--> false because 12 is not divisible by 7
 This kata is following kata: <http://www.codewars.com/kata/is-n-divisible-by-x-and-y>
 
 ## Thinking
+
+Just `all`.
