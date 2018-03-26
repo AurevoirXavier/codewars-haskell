@@ -21,3 +21,4 @@ Have fun coding it and please don't forget to vote and rank this kata! :-)
 
 ## Thinking
 
+`zipWith` makes more easier.
