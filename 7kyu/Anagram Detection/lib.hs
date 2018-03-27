@@ -1,4 +1,8 @@
 module Codewars.Anagram where
 
+import           Data.Char     (toLower)
+import           Data.Function (on)
+import           Data.List     (sort)
+
 isAnagramOf :: String -> String -> Bool
-isAnagramOf test original = False -- fix implementation
+isAnagramOf = (==) `on` (sort . map toLower)

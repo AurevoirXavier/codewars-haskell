@@ -14,3 +14,5 @@ Complete the function to return `true` if the two arguments given are anagrams o
 - `"Buckethead"` is an anagram of `"DeathCubeK"`
 
 ## Thinking
+
+Use `on` makes code clearly.
