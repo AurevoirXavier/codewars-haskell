@@ -17,3 +17,15 @@ divisors 30 = 8 -- 1, 2, 3, 5, 6, 10, 15, 30
 
 ## Thinking
 
+There's a trick which can make it really efficiency: 
+
+`24 = 2 * 2 * 2 * 3` => `2^3 * 3^1` => `Sum of the divisor = (3 + 1) * (1 + 1)`
+
+Just focus on the index number.
+
+```haskell
+*Divisors> divisors 10000000
+64
+it :: Int
+(0.01 secs, 1,772,848 bytes)
+```
