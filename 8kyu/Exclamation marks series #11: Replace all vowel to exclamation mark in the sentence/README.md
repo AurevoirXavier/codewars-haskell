@@ -25,3 +25,4 @@ Please don't post issue about difficulty or duplicate. Because:
 
 ## Thinking
 
+Just `\`elem` "aeiouAEIOU"`.
