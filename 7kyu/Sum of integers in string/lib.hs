@@ -1,8 +1,10 @@
 module SumStrings where
 
-import           Data.Char     (isDigit)
-import           Data.Function (on)
-import           Data.List     (groupBy)
+import           Data.Char       (isDigit)
+-- import           Data.Function   (on)
+-- import           Data.List       (groupBy)
+import           Data.List.Split (wordsBy)
 
 sumOfIntegersInString :: [Char] -> Int
-sumOfIntegersInString = foldl (\acc x -> acc + read x) 0 . groupBy (\x y -> (isDigit x) && (isDigit y))
+-- sumOfIntegersInString = sum . map read . filter (any isDigit) . groupBy ((&&) `on` isDigit)
+sumOfIntegersInString = sum . map read . wordsBy (not . isDigit)

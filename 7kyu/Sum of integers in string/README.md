@@ -8,3 +8,4 @@ Your task in this kata is to implement a function that calculates the sum of the
 
 ## Thinking
 
+Combine `isDigit` and `wordsBy` which in *Data.List.Split*.
