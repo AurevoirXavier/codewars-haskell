@@ -22,3 +22,4 @@ If you like this Kata, please try:
 
 ## Thinking
 
+Use `ord` or `Set` to pair key and value.
