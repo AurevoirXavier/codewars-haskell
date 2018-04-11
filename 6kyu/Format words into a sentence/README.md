@@ -12,3 +12,4 @@ formatWords([]) // should return ""
 
 ## Thinking
 
+Use `intersperse` which in the *Data.List*.
