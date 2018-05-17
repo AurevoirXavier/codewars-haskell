@@ -24,3 +24,5 @@ reverseByCenter "secret" `shouldBe` "retsec" -- no center character
 Don't use this to actually exchange messages in private.
 
 ## Thinking
+
+Just `splitAt` mid.
