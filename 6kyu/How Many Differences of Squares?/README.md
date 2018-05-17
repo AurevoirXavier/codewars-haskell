@@ -22,3 +22,4 @@ n = 6427 ==> 4820
 
 ## Thinking
 
+A pure math problem, not a good programing problem. [Prove](https://www.quora.com/Which-integers-cannot-be-represented-as-the-difference-of-two-squares)
