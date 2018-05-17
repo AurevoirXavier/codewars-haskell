@@ -1,7 +1,7 @@
 module Codewars.G964.Wallpaper where
 
 wallpaper :: Double -> Double -> Double -> String
-wallpaper l w h = if any (==0) [l, w, h] then "zero" else match $ ceiling ((l + w) * h * 2.3 / 5.2)
+wallpaper l w h = if 0 `elem` [l, w, h] then "zero" else match $ ceiling ((l + w) * h * 2.3 / 5.2)
     where
         match 1  = "one"
         match 2  = "two"

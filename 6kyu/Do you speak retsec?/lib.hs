@@ -7,4 +7,4 @@ reverseByCenter xs
     | otherwise = 
         where
             len           = length xs
-            (left, right) = splitAt
+            (left, right) = splitAtcd
