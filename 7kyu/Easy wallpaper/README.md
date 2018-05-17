@@ -17,3 +17,5 @@ Last time he did these calculations he caught a headache so could you help John?
 - the integer `r` (number of rolls) will always be less or equal to 20
 
 ## Thinking
+
+`area = ((l + w) * 2) * h / (52 * 0.1) * (1 + 0.15)`.
