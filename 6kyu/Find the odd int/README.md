@@ -8,3 +8,4 @@ There will always be only one integer that appears an odd number of times.
 
 ## Thinking
 
+Think about using `xor`, an extraordinary way.
