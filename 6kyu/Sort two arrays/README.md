@@ -92,3 +92,4 @@ sortArrays([5,6,9,2,6,5],[3,6,7,4,8,1]) should return
 
 ## Thinking
 
+`zip` them then `sortOn` each one.
